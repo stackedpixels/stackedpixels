@@ -1,7 +1,7 @@
 ![A_pixel_art_digital_illustration](https://github.com/user-attachments/assets/8c039f88-6780-4497-979f-69465eddbda0)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E0FF&center=true&vCenter=true&width=445&lines=Yo%2C+I'm+Mr+Stacked,+Wif+barz+so+fat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Yo%2C+I'm+stacked%2C+wif+barz+so+fat." alt="Typing SVG" />
 </p>
 
 ## 🎤 Yo, the name is Mr. Stacked
